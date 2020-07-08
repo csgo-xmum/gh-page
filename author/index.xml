@@ -12,21 +12,12 @@
     
     
     <item>
-      <title>John Doe</title>
-      <link>https://csgo.js.org/author/john-doe/</link>
+      <title>CSGO</title>
+      <link>https://csgo.js.org/author/csgo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://csgo.js.org/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://csgo.js.org/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://csgo.js.org/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+      <guid>https://csgo.js.org/author/csgo/</guid>
+      <description>We’re A Community Service Group, we are aim on wildlife conservation, boost public awareness.</description>
     </item>
     
   </channel>

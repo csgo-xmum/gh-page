@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://csgo.js.org/zh/blog/simple-blog-post-8/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csgo.js.org/blog/simple-blog-post-8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://csgo.js.org/zh/blog/simple-blog-post-8/"
-                />
-  </url>
-  
-  <url>
     <loc>https://csgo.js.org/zh/blog/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,7 +19,7 @@
   
   <url>
     <loc>https://csgo.js.org/zh/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,122 +33,17 @@
   </url>
   
   <url>
-    <loc>https://csgo.js.org/zh/blog/installation/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csgo.js.org/blog/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://csgo.js.org/zh/blog/installation/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://csgo.js.org/zh/blog/simple-blog-post-1/</loc>
+    <loc>https://csgo.js.org/zh/blog/endangered-animals/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://csgo.js.org/blog/simple-blog-post-1/"
+                href="https://csgo.js.org/blog/endangered-animals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://csgo.js.org/zh/blog/simple-blog-post-1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://csgo.js.org/zh/blog/simple-blog-post-2/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csgo.js.org/blog/simple-blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://csgo.js.org/zh/blog/simple-blog-post-2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://csgo.js.org/zh/blog/simple-blog-post-3/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csgo.js.org/blog/simple-blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://csgo.js.org/zh/blog/simple-blog-post-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://csgo.js.org/zh/blog/simple-blog-post-4/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csgo.js.org/blog/simple-blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://csgo.js.org/zh/blog/simple-blog-post-4/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://csgo.js.org/zh/blog/simple-blog-post-5/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csgo.js.org/blog/simple-blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://csgo.js.org/zh/blog/simple-blog-post-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://csgo.js.org/zh/blog/simple-blog-post-6/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csgo.js.org/blog/simple-blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://csgo.js.org/zh/blog/simple-blog-post-6/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://csgo.js.org/zh/blog/simple-blog-post-7/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csgo.js.org/blog/simple-blog-post-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://csgo.js.org/zh/blog/simple-blog-post-7/"
+                href="https://csgo.js.org/zh/blog/endangered-animals/"
                 />
   </url>
   
@@ -196,30 +76,16 @@
   </url>
   
   <url>
-    <loc>https://csgo.js.org/zh/author/john-doe/</loc>
+    <loc>https://csgo.js.org/zh/author/csgo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://csgo.js.org/author/john-doe/"
+                href="https://csgo.js.org/author/csgo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://csgo.js.org/zh/author/john-doe/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://csgo.js.org/zh/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csgo.js.org/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://csgo.js.org/zh/author/mark-dinn/"
+                href="https://csgo.js.org/zh/author/csgo/"
                 />
   </url>
   
